@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tosin-dotcom" alt="tosin-dotcom" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/iyiolatosin1" target="blank"><img src="https://img.shields.io/twitter/follow/iyiolatosin1?logo=twitter&style=for-the-badge" alt="iyiolatosin1" /></a> </p>
+
+- 🔭 I’m currently working on **advanced employee management system**
+
 - 📝 I regularly write articles on [tosin1.hashnode.com](tosin1.hashnode.com)
 
 - 💬 Ask me about **Django, FastAPI, Java, Spring Boot, Express, Node**
@@ -29,14 +33,20 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://github.com/Tosin-dotcom](https://github.com/Tosin-dotcom)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iyiolatosin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iyiolatosin1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iyiola-tosin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iyiola-tosin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/18964263/tosin-iyiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/18964263/tosin-iyiola" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18964263/tosin-iyiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18964263/tosin-iyiola" height="30" width="40" /></a>
 <a href="https://hashnode.com/@tosin123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tosin123" height="30" width="40" /></a>
 <a href="https://medium.com/@tosiniyiola00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tosiniyiola00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tosiniyiola00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tosiniyiola00" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tosin-123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tosin-123" height="30" width="40" /></a>
+<a href="/tosin1.hashnode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="tosin1.hashnode.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

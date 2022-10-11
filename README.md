@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tosiniyola00@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Tosin-dotcom](https://github.com/Tosin-dotcom)
+- 📄 Know about my experiences [https://tosin.netlify.com](https://tosin.netlify.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
